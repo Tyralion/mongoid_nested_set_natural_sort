@@ -1,3 +1,5 @@
+require 'naturalsorter'
+
 require "mongoid_nested_set_natural_sort/version"
 require "mongoid_nested_set_natural_sort/class_methods"
 require "mongoid_nested_set_natural_sort/instance_methods"

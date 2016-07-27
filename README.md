@@ -54,11 +54,11 @@ By default, gem sort by field `name`. You cat change it
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/dancingbytes/mongoid_nested_set_natural_sort
+Bug reports and pull requests are welcome on GitHub at https://github.com/Tyralion/mongoid_nested_set_natural_sort
 
 ### License
 
 Author: Tyralion (piliaiev@gmail.com)
 
-Copyright (c) 2016 DansingBytes.ru, released under the BSD license
+Copyright (c) 2016 Tyralion, released under the BSD license
 

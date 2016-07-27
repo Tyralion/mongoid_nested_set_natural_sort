@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Natural sorting for mongoid nestes set.}
   spec.description   = %q{Natural sorting for mongoid nestes set.}
-  spec.homepage      = "https://github.com/dancingbytes/mongoid_nested_set_natural_sort"
+  spec.homepage      = "https://github.com/Tyralion/mongoid_nested_set_natural_sort"
 
   spec.files         = `git ls-files`.split($/)
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
